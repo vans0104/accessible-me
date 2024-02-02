@@ -91,3 +91,9 @@ form button {
 .skip-links a:focus{
   top: 0;
 }
+
+.skip-link{
+  text-decoration: none;
+  color: black;
+  font-size: medium;
+}
